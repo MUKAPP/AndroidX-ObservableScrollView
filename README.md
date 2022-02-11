@@ -1,2 +1,3 @@
 # AndroidX-ObservableScrollView
-将Support修改到AndroidX
+https://github.com/ksoichiro/Android-ObservableScrollView
+将Support库修改到AndroidX
